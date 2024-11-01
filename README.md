@@ -1,5 +1,5 @@
 <div align=center>
-    <img src=https://img.shields.io/badge/🍝SPAGHETTI-🐱CATS-ff69b4?style=for-the-badge&logo=data:image/svg+xml;base64,<BASE64_ENCODED_SVG>
+    <img src=https://img.shields.io/badge/🍝SPAGHETTI-🐱CATS-ff69b4?style=for-the-badge>
     <h2>Technical Assessment</h2>
 </div>
 
