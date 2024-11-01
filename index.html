@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Spaghetti Cats</title>
+	<link rel="stylesheet" href="index.css" />
+</head>
+<body>
+	<header>
+		<img src="https://img.shields.io/badge/🍝SPAGHETTI-🐱CATS-ff69b4?style=for-the-badge&logo=data:image/svg+xml;base64,BASE64_ENCODED_SVG" id="logo"/>
+		<div class="nav-links">
+			<a href="#">About</a>
+			<a href="#">Contact</a>
+			<a href="#">Careers</a>
+		</div>
+	</header>
+	<main>
+		<div class="controls">
+			<label for="numImagesInput">How many cats do you want to see?</label>
+			<input type="number" id="numImagesInput" min="1" max="10" value="5" />
+			<button id="fetchButton">Fetch Cats!</button>
+		</div>
+		<div id="catContainer" class="cat-container"></div>
+	</main>
+	<script src="index.js" type="module"></script>
+</body>
+</html>
