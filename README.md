@@ -18,10 +18,12 @@
     <ol>
         <li>
             <b>Fetch Cat Images:</b> Pressing the <em>'Fetch Cats!'</em> button should load the number of cat images specified in the input field.
+            <br>
             <img src=README/desired1.png>
         </li>
         <li>
             <b>Loading State:</b> When fetching begins, the program should display a <em>'Loading'</em> state to inform the user that images are loading.
+            <br>
             <img src=README/desired2.png>
         </li>
         <li>
